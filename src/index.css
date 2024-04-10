@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
+body {
+  font-family: "Merriweather";
+} */
+.icon:hover {
+  color: purple;
+  transform: rotate(1080deg);
+  transition: transform 1s ease-in-out;
+}
